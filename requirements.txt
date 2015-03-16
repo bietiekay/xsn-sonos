@@ -1,0 +1,5 @@
+Django==1.6.10
+django-autoslug==1.7.2
+django-jsonfield==0.9.13
+lxml
+-e git+git@github.com:xenim/django-radioportal-sonos.git#egg=django_radioportal_sonos-master
